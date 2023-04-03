@@ -40,7 +40,7 @@ Polymorphism atau banyak bentuk adalah kemampuan suatu objek untuk memiliki bany
 
 ➤Abstraction (Abstraksi)  
 Konsep abstraksi memungkinkan untuk memfokuskan pada fitur penting dari suatu objek dan mengabaikan detail implementasi yang tidak penting.  
-Berikut untuk penerapan OOP pada python : https://github.com/zgii14/Project12/commit/44cb3d7bf8bf2ed2f8a6670d06bcf1de85741051
+Berikut untuk penerapan OOP pada python : https://github.com/zgii14/Project12/blob/04d8ec67ea942d72cdb4537144d732f39aac2322/oop-Program.py
 # ● Perbedaan Functional Programming & Object Oriented Programming
 Perbedaan antara OOP dan functional programming di Python dapat dijelaskan sebagai berikut:  
 
