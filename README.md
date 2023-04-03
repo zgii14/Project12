@@ -40,3 +40,22 @@ Polymorphism atau banyak bentuk adalah kemampuan suatu objek untuk memiliki bany
 
 ➤Abstraction (Abstraksi)  
 Konsep abstraksi memungkinkan untuk memfokuskan pada fitur penting dari suatu objek dan mengabaikan detail implementasi yang tidak penting.
+
+# ● Perbedaan Functional Programming & Object Oriented Programming
+Perbedaan antara OOP dan functional programming di Python dapat dijelaskan sebagai berikut:  
+
+**Pendekatan Konsep**  
+OOP adalah pendekatan untuk membangun program dengan fokus pada objek, sedangkan functional programming adalah pendekatan untuk membangun program dengan fokus pada fungsi.
+
+**Pembagian Tugas**  
+Dalam OOP, tugas dibagi ke dalam kelas atau objek yang terpisah dan berinteraksi satu sama lain melalui metode. Dalam functional programming, tugas dibagi menjadi fungsi-fungsi yang saling berhubungan dan saling berinteraksi.
+
+**State**  
+OOP memiliki konsep state, di mana setiap objek dapat memiliki atribut dan nilai yang berbeda. Fungsi-fungsi dalam OOP dapat memanipulasi state objek. Sedangkan, dalam functional programming, fungsi tidak memanipulasi state, dan hasilnya hanya tergantung pada parameter masukan.
+
+**Perubahan Data**  
+OOP mendorong perubahan data yang dilakukan melalui objek atau kelas, sementara functional programming mendorong penggunaan fungsi-fungsi yang tidak mengubah nilai dari variabel masukan.
+
+**Keterbacaan Kode**  
+OOP cenderung lebih mudah dibaca dan dimengerti oleh programmer yang sudah terbiasa dengan paradigma pemrograman objek. Sementara functional programming cenderung lebih sulit dipahami bagi programmer yang tidak terbiasa dengan konsep pemrograman fungsional.
+Pemilihan paradigma pemrograman tergantung pada kebutuhan proyek dan preferensi programmer. OOP lebih cocok untuk proyek besar yang kompleks dan memerlukan manajemen state yang rumit, sedangkan functional programming lebih cocok untuk pemrosesan data paralel dan algoritma matematis.
