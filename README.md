@@ -39,8 +39,8 @@ Inheritance atau pewarisan adalah teknik OOP untuk menurunkan sifat dan perilaku
 Polymorphism atau banyak bentuk adalah kemampuan suatu objek untuk memiliki banyak bentuk atau perilaku yang berbeda-beda dalam situasi yang berbeda. Polymorphism dapat dicapai melalui inheritance dan metode overriding atau overloading.
 
 ➤Abstraction (Abstraksi)  
-Konsep abstraksi memungkinkan untuk memfokuskan pada fitur penting dari suatu objek dan mengabaikan detail implementasi yang tidak penting.
-
+Konsep abstraksi memungkinkan untuk memfokuskan pada fitur penting dari suatu objek dan mengabaikan detail implementasi yang tidak penting.  
+Berikut untuk penerapan OOP pada python : https://github.com/zgii14/Project12/commit/44cb3d7bf8bf2ed2f8a6670d06bcf1de85741051
 # ● Perbedaan Functional Programming & Object Oriented Programming
 Perbedaan antara OOP dan functional programming di Python dapat dijelaskan sebagai berikut:  
 
