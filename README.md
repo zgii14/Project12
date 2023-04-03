@@ -21,7 +21,7 @@ def increment(a):
 Selain itu, fungsi increment() bersifat "pure", artinya fungsi ini tidak memiliki efek samping yang memengaruhi lingkungan di luar fungsi. Hal ini penting dalam konsep functional programming untuk memudahkan pengujian dan meminimalkan efek samping pada program.`
 
 Penerapan paradigma fungsional programming pada Python dapat membantu memudahkan pengembangan program yang bersifat parallel, mudah untuk dibaca, mudah untuk diuji, serta dapat meningkatkan performa program jika dilakukan dengan benar.
-Berikut program dengan penerapan function programming : https://github.com/zgii14/Project12/blob/f18924b24e069c1f5acfad7fae30817d1cd6dde1/func-program.py
+Berikut program transasksi produk dengan penerapan function programming  : https://github.com/zgii14/Project12/blob/f18924b24e069c1f5acfad7fae30817d1cd6dde1/func-program.py
 
 # ● Object Oriented Programming (OOP)
 Pemrograman berorientasi objek, atau hanya disebut sebagai "OOP", adalah model pemrograman perangkat lunak berdasarkan konsep objek, bukan hanya fungsi dan prosedur. OOP dirancang sedemikian rupa sehingga konsep dunia nyata dapat diprogram dalam program komputer. Seperti namanya, OOP menggunakan objek dalam pemrograman yang diatur ke dalam kelas, yang memungkinkan objek individu untuk dikelompokkan bersama. Setiap objek dalam OOP bertanggung jawab untuk serangkaian tugas. Jadi, berbagai tugas dalam program dilakukan, dengan menjalankan operasi yang didefinisikan pada objek yang sesuai. Meskipun, fitur dasar dari OOP ditemukan pada tahun 1960-an, baru pada tahun 1980-an bahasa berorientasi objek mulai mendapatkan perhatian. OOP adalah ide revolusioner dan ada sejumlah alasan mengapa ia menjadi paradigma pemrograman yang dominan dalam beberapa dekade terakhir. 
@@ -41,7 +41,7 @@ Polymorphism atau banyak bentuk adalah kemampuan suatu objek untuk memiliki bany
 
 ➤Abstraction (Abstraksi)  
 Konsep abstraksi memungkinkan untuk memfokuskan pada fitur penting dari suatu objek dan mengabaikan detail implementasi yang tidak penting.  
-Berikut untuk penerapan OOP pada python : https://github.com/zgii14/Project12/blob/04d8ec67ea942d72cdb4537144d732f39aac2322/oop-Program.py
+Berikut untuk program Hitung gaji penerapan OOP pada python : https://github.com/zgii14/Project12/blob/04d8ec67ea942d72cdb4537144d732f39aac2322/oop-Program.py
 # ● Perbedaan Functional Programming & Object Oriented Programming
 Perbedaan antara OOP dan functional programming di Python dapat dijelaskan sebagai berikut:  
 
